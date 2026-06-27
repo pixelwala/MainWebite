@@ -38,6 +38,9 @@
     "typescript": "~6.0.3",
     "vite": "^8.0.16"
   },
+  "engines": {
+    "node": ">=22.22.0"
+  },
   "prettier": {
     "printWidth": 120,
     "endOfLine": "auto"
