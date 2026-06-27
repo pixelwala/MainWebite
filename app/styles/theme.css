@@ -1,0 +1,9 @@
+/* Theme tokens for PixelWala Cinematic */
+:root {
+  --color-primary: #D4AF37;
+  --color-background: #0B0B0B;
+  --color-text: #ffffff;
+  --color-text-muted: rgba(255, 255, 255, 0.45);
+  --family-display: "Cormorant Garamond", serif;
+  --family-body: "Rajdhani", sans-serif;
+}
