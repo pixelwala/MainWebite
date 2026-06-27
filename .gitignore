@@ -9,3 +9,6 @@
 .env
 
 .netlify
+
+# Lock file — generated per-platform; let Cloudflare generate its own
+package-lock.json
