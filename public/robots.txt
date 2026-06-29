@@ -1,0 +1,25 @@
+# PixelWala Cinematic — robots.txt
+# https://pixelwalacinematic.com
+
+# Allow all search engines
+User-agent: *
+Allow: /
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# Yandex
+User-agent: Yandex
+Allow: /
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Sitemap location
+Sitemap: https://pixelwalacinematic.com/sitemap.xml
